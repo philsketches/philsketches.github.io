@@ -21,7 +21,7 @@ var arrcaptions = [
 	'You mean this old rag',
 	'Dinner is ready!',
 	'My feet are killing me',
-	'Youre silly to jump at the first man who comes along'
+	'Youre silly to jump at the first man who comes along',
 	'Am I boring you',
 	'I yeild to the gentelman from Ohio',
 	'Shall we join the ladies?',
@@ -32,7 +32,7 @@ var arrcaptions = [
 	'Imediate seating in the orchestra',
 	'Filler up',
 	'Look no hands',
-	'Please dont feed the animals'
+	'Please dont feed the animals',
 	'I realise this is carrying coals to Newcastle',
 	'I refuse to answer on the grounds it might incriminate me',
 	'Why dont we eat out for a change',
@@ -47,14 +47,14 @@ var arrcaptions = [
 	'Can I add you to my linked in network?', 
 	'I just feel sort of out of things',
 	'But,can she cook?',
-	'Is this seat taken?'
+	'Is this seat taken?',
 	'Lets not put the cart before the horse',
 	'I can lick him with my eyes shut',
 	'How late are you open?',
 	'Its good to hear your voice',
 	'Hes got a chip on his shoulder',
-	'Youre going to meet a tall, dark,handsome man'
-	'Just keep your shirt on'
+	'Youre going to meet a tall, dark,handsome man',
+	'Just keep your shirt on',
 	'I can lick any guy in the house',
 	'Under new management',
 	'In What denominations do you want it?',
@@ -74,15 +74,7 @@ var arrcaptions = [
 	'Well dear, be good', 
 	'Shine, mister?',
 	'He can dish it out,but can he take it?',
-	'of all the things to shove down my throat',
-	
-
-
-
-
-
-
-	
+	'of all the things to shove down my throat'
 ];
 
 

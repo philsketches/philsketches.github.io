@@ -46,7 +46,8 @@ var arrprops = [
 	'Spoon',
 	'Boomerang',
 	'Ukulele',
-	'Motorcycle''Newspaper', 
+	'Motorcycle',
+	'Newspaper', 
 	'Bagpipes', 
 	'Wedding gifts', 
 	'Stilts', 
@@ -84,7 +85,7 @@ var arrprops = [
 	'Tape',
 	'Food Tray',
 	'Toilet',
-	'Stove/Kitchen Appliances'
+	'Stove/Kitchen Appliances',
 	'Refridgerator',
 	'Scissors',
 	'knife',
@@ -144,13 +145,12 @@ var arrprops = [
 	'Tablet',
 	'Pillow',
 	'Carton of Eggs',
-	'Books'
+	'Books',
 	'Baby Monitor',
 	'Remote Control',
 	'Guitar',
 	'Tire Iron',
-	'Coffee Mug'
-	
+	'Coffee Mug'	
 ];
 
 

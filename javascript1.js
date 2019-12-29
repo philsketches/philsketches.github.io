@@ -114,10 +114,6 @@ var arrplaces = [
 	'Mask',
 	'Trombone',
 	'Ticker Tape'
-	
-	
-	
-	
 ];
 
 

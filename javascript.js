@@ -140,7 +140,7 @@ var arrpeople = [
 	'King',
 	'Queen',
 	'Judge',
-	'St Bernard Rescue Dog'
+	'St Bernard Rescue Dog',
 	'Stork',
 	'Mouse',
 	'Little Red Riding Hood',
