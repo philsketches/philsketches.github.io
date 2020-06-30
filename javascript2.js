@@ -149,6 +149,9 @@ var arrprops = [
 	'Baby Monitor',
 	'Remote Control',
 	'Guitar',
+	'Piano',
+	'Mask',
+	'Trombone',
 	'Tire Iron',
 	'Coffee Mug'	
 ];
