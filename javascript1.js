@@ -58,7 +58,6 @@ var arrplaces = [
 	'Laundromat',
 	'Sewer', 
 	'Penthouse',  
-	'Flag pole', 
 	'Police station', 
 	'Motorcycle', 
 	'Dog house', 
@@ -100,16 +99,6 @@ var arrplaces = [
 	'Dance Studio',
 	"Gym",
 	'Strip Mall',
-	'Income Tax Forms',
-	'Rain',
-	'Billboard',
-	'Suit of Armor',
-	'Home Movie',
-	'Vaction Slides/Photos',
-	'Golf Cart',
-	'Golf Bag',
-	'Golf Clubs',
-	'Golf Ball(s)',
 	'Ticker Tape Parade'
 ];
 
