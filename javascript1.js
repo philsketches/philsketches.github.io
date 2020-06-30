@@ -110,10 +110,7 @@ var arrplaces = [
 	'Golf Bag',
 	'Golf Clubs',
 	'Golf Ball(s)',
-	'Piano',
-	'Mask',
-	'Trombone',
-	'Ticker Tape'
+	'Ticker Tape Parade'
 ];
 
 
