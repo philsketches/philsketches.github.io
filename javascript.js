@@ -72,7 +72,7 @@ var arrpeople = [
 	'Fortune Teller',
 	'Matador',
 	'Lion Tamer',
-	'Taxie Driver',
+	'Taxi Driver',
 	'Snake Charmer',
 	'Shoe Salesman',
 	'Bus Driver',
@@ -169,6 +169,38 @@ var arrpeople = [
 	'The Thinker',
 	'Hobo',
 	'Alligator'
+	'Easter Bunny',
+	'Cinderella',
+	'Chicken & Egg',
+	'Caveman',
+	'Hansel & Gretel'
+	'Little Engine that Could'
+	'Big Fish',
+	'Little Fish',
+	'Rat',
+	'Monster',
+	'Octopus',
+	'Spider',
+	'Janitor'
+	'Ram',
+	'Dinosaur',
+	'Moses',
+	'Jesus',
+	'3 little pigs',
+	'Snail',
+	'Slug',
+	'Unicorn',
+	'Dragon',
+	'Knight',
+	'Cyclops',
+	'King Kong',
+	'Godzilla',
+	'Giraffe',
+	'Lion',
+	'Tiger',
+	'Skelleton/s'
+	
+
 	
 ];
 
