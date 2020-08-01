@@ -199,13 +199,10 @@ var arrpeople = [
 	'Lion',
 	'Tiger',
 	'Skelletons',
-	'Girraffe',
-	'Elephant',
 	'Bear',
 	'Doll',
 	'Cow',
 	'Pig',
-	'Soldier',
 	'Nanny'
 ];
 
