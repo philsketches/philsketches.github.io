@@ -168,7 +168,7 @@ var arrpeople = [
 	'Atlas',
 	'The Thinker',
 	'Hobo',
-	'Alligator'
+	'Alligator',
 	'Easter Bunny',
 	'Cinderella',
 	'Chicken & Egg',
