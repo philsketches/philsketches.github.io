@@ -203,7 +203,15 @@ var arrpeople = [
 	'Doll',
 	'Cow',
 	'Pig',
-	'Nanny'
+	'Nanny',
+	'Mothman',
+	'Goblin',
+	'Flatwoods Monster',
+	'Protester',
+	'Knight',
+	'Puppeteer',
+	'Rockstar',
+	'Gamer'
 ];
 
 
