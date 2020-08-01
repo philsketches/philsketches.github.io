@@ -198,7 +198,7 @@ var arrpeople = [
 	'Giraffe',
 	'Lion',
 	'Tiger',
-	'Skelleton/s',
+	'Skelletons',
 	'Girraffe',
 	'Elephant',
 	'Bear',
