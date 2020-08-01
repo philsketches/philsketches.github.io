@@ -207,10 +207,6 @@ var arrpeople = [
 	'Pig',
 	'Soldier',
 	'Nanny'
-	
-	
-
-	
 ];
 
 
