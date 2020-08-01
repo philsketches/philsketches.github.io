@@ -206,7 +206,7 @@ var arrpeople = [
 	'Bear',
 	'Doll',
 	'Cow',
-	'Pig'
+	'Pig',
 	'Soldier',
 	'Nanny'
 	
