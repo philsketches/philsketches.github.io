@@ -181,7 +181,7 @@ var arrpeople = [
 	'Monster',
 	'Octopus',
 	'Spider',
-	'Janitor'
+	'Janitor',
 	'Ram',
 	'Dinosaur',
 	'Moses',
