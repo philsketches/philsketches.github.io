@@ -173,8 +173,8 @@ var arrpeople = [
 	'Cinderella',
 	'Chicken & Egg',
 	'Caveman',
-	'Hansel & Gretel'
-	'Little Engine that Could'
+	'Hansel & Gretel',
+	'Little Engine that Could',
 	'Big Fish',
 	'Little Fish',
 	'Rat',
@@ -198,7 +198,18 @@ var arrpeople = [
 	'Giraffe',
 	'Lion',
 	'Tiger',
-	'Skelleton/s'
+	'Skelleton/s',
+	'Girraffe',
+	'Superhero',
+	'President',
+	'Elephant',
+	'Bear',
+	'Doll',
+	'Cow',
+	'Pig'
+	'Soldier',
+	'Nanny'
+	
 	
 
 	
