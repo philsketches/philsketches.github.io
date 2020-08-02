@@ -129,7 +129,14 @@ var arrplaces = [
 	'Beach',
 	'Dive Bar',
 	'Bar',
-	'Movie Theater'
+	'Movie Theater',
+	'Desert Island',
+	'Desert',
+	'Garden',
+	'Toll Booth',
+	'Forrest',
+	'University'
+	
 	
 	
 ];
