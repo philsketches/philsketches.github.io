@@ -164,7 +164,30 @@ var arrprops = [
 	'Mask',
 	'Trombone',
 	'Tire Iron',
-	'Coffee Mug'	
+	'Coffee Mug',
+	'Flashlight',
+	'Mirror',
+	'Cane',
+	'Umbrella',
+	'Ladder',
+	'Headphones',
+	'Box of Chocolates',
+	'Gift', 
+	'Treasure Chest',
+	'Balloons',
+	'Key',
+	'Pillow',
+	'Map',
+	'Yo-Yo',
+	'Hammer',
+	'Camera',
+	'Vase',
+	'Garden Hose',
+	'Crowbar',
+	'Knife',
+	'Paper Bag',
+	'Bandages',
+	'Blanket'
 ];
 
 
